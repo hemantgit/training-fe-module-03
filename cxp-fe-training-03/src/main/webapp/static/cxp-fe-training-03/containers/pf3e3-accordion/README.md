@@ -9,7 +9,7 @@ _note: All exercises use the [standard portal set-up for backbase trainings](htt
 
 #### Description
 
-To style your container
+In this exercise, you will style your container using Twitter Bootstrap's CSS toolkit.
 
 #### Steps
 
