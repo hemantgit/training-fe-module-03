@@ -15,6 +15,11 @@ To style your container
 
  - Using Twitter Bootstrap, use the "Panels" styles for your areas and your titles
 
+#### Additional Resources
+
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L96-L132)
+ - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L60-L78)
+
 #### References
 
  - [Container Development Methodology](https://my.backbase.com/resources/documentation/portal/5.5.1.0/devd_comp_cont.html)

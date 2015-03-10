@@ -9,7 +9,7 @@ _note: All exercises use the [standard portal set-up for backbase trainings](htt
 
 #### Description
 
-To create your first container
+In this exercise, you will learn how to create your first container using Google Closure templating engine.
 
 #### Steps
 

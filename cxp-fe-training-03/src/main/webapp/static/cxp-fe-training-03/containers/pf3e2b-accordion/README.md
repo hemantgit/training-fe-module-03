@@ -9,13 +9,18 @@ _note: All exercises use the [standard portal set-up for backbase trainings](htt
 
 #### Description
 
-To create an Accordion UI
+In this exercise, you will implement the basic Accordion UI for your container.
 
 #### Steps
 
  - Implement the Accordion UI
  - Increase your areas to 3 (all hidden by default)
  - Make sure there is a title for each area and that by clicking the title, the specific area is becoming visible and the others hide
+
+#### Additional Resources
+
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L59-L95)
+ - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L41-L59)
 
 #### References
 

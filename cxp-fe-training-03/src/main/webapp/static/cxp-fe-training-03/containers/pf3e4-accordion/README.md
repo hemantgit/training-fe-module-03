@@ -9,13 +9,18 @@ _note: All exercises use the [standard portal set-up for backbase trainings](htt
 
 #### Description
 
-To render your container client-side
+In this exercise, you will learn how to enable client-side rendering for your container.
 
 #### Steps
 
  - Make the container client-side rendered:
     - Change the value of the "csr" property to true
     - Update the JavaScript code to compile the template
+
+#### Additional Resources
+
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L133-L169)
+ - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L79-L97)
 
 #### References
 

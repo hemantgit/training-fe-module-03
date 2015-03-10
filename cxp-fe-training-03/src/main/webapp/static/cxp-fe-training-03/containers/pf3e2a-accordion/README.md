@@ -9,12 +9,17 @@ _note: All exercises use the [standard portal set-up for backbase trainings](htt
 
 #### Description
 
-To enable drag and drop for your container
+In this exercise, you will learn how to enable the drag and drop functionality for your container.
 
 #### Steps
 
  - Add the basic JavaScript to enable Drag and Drop for your container
  - Test that you can drop items in your area
+
+#### Additional Resources
+
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L31-L58)
+ - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L22-L40)
 
 #### References
 
