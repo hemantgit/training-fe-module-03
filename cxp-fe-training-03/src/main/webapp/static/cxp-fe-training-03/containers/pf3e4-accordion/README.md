@@ -19,8 +19,8 @@ In this exercise, you will learn how to enable client-side rendering for your co
 
 #### Additional Resources
 
- - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L133-L169)
  - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L79-L97)
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L133-L169)
 
 #### References
 

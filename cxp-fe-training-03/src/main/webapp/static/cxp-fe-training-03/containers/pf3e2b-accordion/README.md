@@ -19,8 +19,8 @@ In this exercise, you will implement the basic Accordion UI for your container.
 
 #### Additional Resources
 
- - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L59-L95)
  - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L41-L59)
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L59-L95)
 
 #### References
 

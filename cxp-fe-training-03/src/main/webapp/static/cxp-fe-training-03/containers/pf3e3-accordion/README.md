@@ -17,8 +17,8 @@ In this exercise, you will style your container using Twitter Bootstrap's CSS to
 
 #### Additional Resources
 
- - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L96-L132)
  - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L60-L78)
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L96-L132)
 
 #### References
 

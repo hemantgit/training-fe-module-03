@@ -21,8 +21,8 @@ In this exercise, you will learn how to create your first container using Google
 
 #### Additional Resources
 
- - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L3-L30)
  - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L3-L21)
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L3-L30)
 
 #### References
 

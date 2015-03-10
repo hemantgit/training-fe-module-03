@@ -18,8 +18,8 @@ In this exercise, you will learn how to enable the drag and drop functionality f
 
 #### Additional Resources
 
- - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L31-L58)
  - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L22-L40)
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L31-L58)
 
 #### References
 
