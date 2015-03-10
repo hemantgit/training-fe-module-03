@@ -17,7 +17,12 @@ To create your first container
  - Create your soy template
  - Create your config.xml
  - Create a file called "templates-containers.xml" and use YAPI to import it
- - Create a file called "server-catalog-containers.xml" and use YAPI to import it
+ - Create a file called "server-catalog-containers.xml" and use YAPI to import
+
+#### Additional Resources
+
+ - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L3-L30)
+ - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L3-L21)
 
 #### References
 
