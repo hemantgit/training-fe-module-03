@@ -20,7 +20,7 @@
 	}, {
 		template: function(json) {
 			var data = {item: json.model.originalItem};
-			var sTemplate = cxp_training.AccordionPF3E4(data);
+			var sTemplate = cxp_fe_training_03.AccordionPF3E4(data);
 			return sTemplate;
 		},
 		handlers: {
