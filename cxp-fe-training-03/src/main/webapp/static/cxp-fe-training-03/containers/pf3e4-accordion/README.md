@@ -14,7 +14,7 @@ In this exercise, you will learn how to enable client-side rendering for your co
 #### Steps
 
  - Make the container client-side rendered:
-    - Change the value of the "csr" property to true
+    - Change the value of the **csr** property to true
     - Update the JavaScript code to compile the template
 
 #### Additional Resources

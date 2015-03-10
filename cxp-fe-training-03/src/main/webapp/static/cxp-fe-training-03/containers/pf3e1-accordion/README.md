@@ -13,11 +13,11 @@ In this exercise, you will learn how to create your first container using Google
 
 #### Steps
 
- - Create the folder structure for an "Accordion" container
+ - Create the folder structure for an **Accordion** container
  - Create your soy template
  - Create your config.xml
- - Create a file called "templates-containers.xml" and use YAPI to import it
- - Create a file called "server-catalog-containers.xml" and use YAPI to import
+ - Create a file called **templates-containers.xml** and use YAPI to import it
+ - Create a file called **server-catalog-containers.xml** and use YAPI to import
 
 #### Additional Resources
 
