@@ -1,12 +1,12 @@
 {namespace cxp_fe_training_03}
- 
+
 /**
 * Accordion Container
 * @param item Item in context
 */
 {template .AccordionPF3E2b}
-	<div data-pid="{$item.name}" class="bt-accordion bp-container bp-ui-dragRoot">
-	    <section class="bt-accordion-section">
+    <div data-pid="{$item.name}" class="bt-accordion bp-container bp-ui-dragRoot">
+        <section class="bt-accordion-section">
             <header class="bt-accordion-section-header" data-js="bt-accordion-section-header">{$item.preferences.sectionOneTitle.value}</header>
             <div class="bt-accordion-section-body bt-accordion--area bp-area hidden" data-js="bt-accordion-section-body">
                 {foreach $child in $item.children}
@@ -16,7 +16,7 @@
                 {/foreach}
             </div>
         </section>
-	    <section class="bt-accordion-section">
+        <section class="bt-accordion-section">
             <header class="bt-accordion-section-header" data-js="bt-accordion-section-header">{$item.preferences.sectionTwoTitle.value}</header>
             <div class="bt-accordion-section-body bt-accordion--area bp-area hidden" data-js="bt-accordion-section-body">
                 {foreach $child in $item.children}
@@ -26,7 +26,7 @@
                 {/foreach}
             </div>
         </section>
-	    <section class="bt-accordion-section">
+        <section class="bt-accordion-section">
             <header class="bt-accordion-section-header" data-js="bt-accordion-section-header">{$item.preferences.sectionThreeTitle.value}</header>
             <div class="bt-accordion-section-body bt-accordion--area bp-area hidden" data-js="bt-accordion-section-body">
                 {foreach $child in $item.children}
@@ -36,5 +36,5 @@
                 {/foreach}
             </div>
         </section>
-	</div>
+    </div>
 {/template}
