@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <w3c:widget xmlns:w3c="http://www.w3.org/TR/widgets" xmlns:bb="http://www.backbase.com/ns/widgets" xmlns="http://www.w3.org/1999/xhtml">
-	<bb:resources>
+    <bb:resources>
         <link type="text/css" rel="stylesheet" href="css/accordion.css" />
         <script type="text/javascript" src="js/accordion.js"></script>
-	</bb:resources>
+    </bb:resources>
 </w3c:widget>
