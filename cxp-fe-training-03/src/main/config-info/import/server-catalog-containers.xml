@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <container>
+        <name>pf3e1-accordion</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property name="title">
+                <value type="string">(PF3E1) Accordion Container</value>
+            </property>
+            <property name="TemplateName">
+                <value type="string">AccordionPF3E1</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(contextRoot)/static/backbase.com.2012.nexus/media/icons/pagedesigner-layouts-icons_deck.png</value>
+            </property>
+            <property name="viewNamespace">
+                <value type="string">cxp-fe-training-03</value>
+            </property>
+            <property name="config">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e1-accordion/config.xml</value>
+            </property>
+            <property name="csr">
+                <value type="boolean">false</value>
+            </property>
+        </properties>
+        <tags>
+            <tag type="section">training containers</tag>
+            <tag type="regular">training</tag>
+        </tags>
+    </container>
+    <container>
+        <name>pf3e2a-accordion</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property name="title">
+                <value type="string">(PF3E2a) Accordion Container</value>
+            </property>
+            <property name="TemplateName">
+                <value type="string">AccordionPF3E2a</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(contextRoot)/static/backbase.com.2012.nexus/media/icons/pagedesigner-layouts-icons_deck.png</value>
+            </property>
+            <property name="viewNamespace">
+                <value type="string">cxp-fe-training-03</value>
+            </property>
+            <property name="config">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e2a-accordion/config.xml</value>
+            </property>
+            <property name="csr">
+                <value type="boolean">false</value>
+            </property>
+        </properties>
+        <tags>
+            <tag type="section">training containers</tag>
+            <tag type="regular">training</tag>
+        </tags>
+    </container>
+    <container>
+        <name>pf3e2b-accordion</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property name="title">
+                <value type="string">(PF3E2b) Accordion Container</value>
+            </property>
+            <property name="TemplateName">
+                <value type="string">AccordionPF3E2b</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(contextRoot)/static/backbase.com.2012.nexus/media/icons/pagedesigner-layouts-icons_deck.png</value>
+            </property>
+            <property name="viewNamespace">
+                <value type="string">cxp-fe-training-03</value>
+            </property>
+            <property name="config">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e2b-accordion/config.xml</value>
+            </property>
+            <property name="csr">
+                <value type="boolean">false</value>
+            </property>
+            <property name="sectionOneTitle" label="Section One Title" viewHint="user,designModeOnly">
+                <value type="string">Section One</value>
+            </property>
+            <property name="sectionTwoTitle" label="Section Two Title" viewHint="user,designModeOnly">
+                <value type="string">Section Two</value>
+            </property>
+            <property name="sectionThreeTitle" label="Section Three Title" viewHint="user,designModeOnly">
+                <value type="string">Section Three</value>
+            </property>
+        </properties>
+        <tags>
+            <tag type="section">training containers</tag>
+            <tag type="regular">training</tag>
+        </tags>
+    </container>
+    <container>
+        <name>pf3e3-accordion</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property name="title">
+                <value type="string">(PF3E3) Accordion Container</value>
+            </property>
+            <property name="TemplateName">
+                <value type="string">AccordionPF3E3</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(contextRoot)/static/backbase.com.2012.nexus/media/icons/pagedesigner-layouts-icons_deck.png</value>
+            </property>
+            <property name="viewNamespace">
+                <value type="string">cxp-fe-training-03</value>
+            </property>
+            <property name="config">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e3-accordion/config.xml</value>
+            </property>
+            <property name="csr">
+                <value type="boolean">false</value>
+            </property>
+            <property name="sectionOneTitle" label="Section One Title" viewHint="user,designModeOnly">
+                <value type="string">Section One</value>
+            </property>
+            <property name="sectionTwoTitle" label="Section Two Title" viewHint="user,designModeOnly">
+                <value type="string">Section Two</value>
+            </property>
+            <property name="sectionThreeTitle" label="Section Three Title" viewHint="user,designModeOnly">
+                <value type="string">Section Three</value>
+            </property>
+        </properties>
+        <tags>
+            <tag type="section">training containers</tag>
+            <tag type="regular">training</tag>
+        </tags>
+    </container>
+    <container>
+        <name>pf3e4-accordion</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property name="title">
+                <value type="string">(PF3E4) Accordion Container</value>
+            </property>
+            <property name="TemplateName">
+                <value type="string">AccordionPF3E4</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(contextRoot)/static/backbase.com.2012.nexus/media/icons/pagedesigner-layouts-icons_deck.png</value>
+            </property>
+            <property name="viewNamespace">
+                <value type="string">cxp-fe-training-03</value>
+            </property>
+            <property name="config">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e4-accordion/config.xml</value>
+            </property>
+            <property name="csr">
+                <value type="boolean">true</value>
+            </property>
+            <property name="sectionOneTitle" label="Section One Title" viewHint="user,designModeOnly">
+                <value type="string">Section One</value>
+            </property>
+            <property name="sectionTwoTitle" label="Section Two Title" viewHint="user,designModeOnly">
+                <value type="string">Section Two</value>
+            </property>
+            <property name="sectionThreeTitle" label="Section Three Title" viewHint="user,designModeOnly">
+                <value type="string">Section Three</value>
+            </property>
+        </properties>
+        <tags>
+            <tag type="section">training containers</tag>
+            <tag type="regular">training</tag>
+        </tags>
+    </container>
+</catalog>
