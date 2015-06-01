@@ -14,20 +14,13 @@ Create complex layouts for your applications by learning how to develop containe
 
 ### Installation & Configuration
 
- - Copy and paste the **cxp-fe-training-03** folder in the **bundles** folder of your Launchpad 0.11.x project
- - If it is not already there, add the `bundles.dir` property as a new property in **portalserver/pom.xml**:
-
-```xml
-<bundles.dir>${project.parent.basedir}/bundles</bundles.dir>
-```
-
- - Add the bundle resource base in **portalserver/pom.xml**, e.g.:
+ - Copy and paste the **cxp-fe-training-03** folder in the **statics/bundles** folder of your Launchpad 0.12.x project
+ - Add the bundle resource base in **portal/pom.xml**, e.g.:
 
 ```xml
 <resourceBases>
-    <resourceBase>${bundles.dir}/cxp-fe-training-03/src/main/webapp</resourceBase>
+    <resourceBase>${statics.dir}/bundles/cxp-fe-training-03/src/main/webapp</resourceBase>
     <resourceBase>${project.basedir}/src/main/webapp</resourceBase>
     <resourceBase>${work.dir}</resourceBase>
 </resourceBases>
-<extraClasspath>${bundles.dir}/cxp-fe-training-03/target/classes;${basedir}/target/classes/;${basedir}/target/portalserver/WEB-INF/classes</extraClasspath>
 ```
