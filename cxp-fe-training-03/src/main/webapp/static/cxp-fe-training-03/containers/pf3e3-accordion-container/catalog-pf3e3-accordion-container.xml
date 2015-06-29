@@ -1,0 +1,39 @@
+<catalog>
+    <container>
+        <name>pf3e3-accordion-container</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property name="TemplateName">
+                <value type="string">pf3E3AccordionContainer</value>
+            </property>
+            <property name="viewNamespace">
+                <value type="string">cxp-fe-training-03</value>
+            </property>
+            <property name="title" label="Title" viewHint="admin,designModeOnly">
+                <value type="string">pf3e3 accordion container</value>
+            </property>
+            <property name="config">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e3-accordion-container/config.xml</value>
+            </property>
+            <property name="csr">
+                <value type="boolean">false</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(contextRoot)/static/cxp-fe-training-03/containers/pf3e3-accordion-container/media/icon.png</value>
+            </property>
+            <property name="sectionOneTitle">
+                <value type="string">Area 1</value>
+            </property>
+            <property name="sectionTwoTitle">
+                <value type="string">Area 2</value>
+            </property>
+            <property name="sectionThreeTitle">
+                <value type="string">Area 3</value>
+            </property>
+        </properties>
+        <tags>
+            <tag type="regular">layout</tag>
+            <tag type="section">FE Training Containers</tag>
+        </tags>
+    </container>
+</catalog>
