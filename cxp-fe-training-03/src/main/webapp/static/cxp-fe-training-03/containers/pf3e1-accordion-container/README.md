@@ -13,19 +13,18 @@ In this exercise, you will learn how to create your first container using Google
 
 #### Steps
 
- - Create the folder structure for an **Accordion** container
- - Create your soy template
- - Create your config.xml
- - Create a file called **templates-containers.xml** and use YAPI to import it
- - Create a file called **server-catalog-containers.xml** and use YAPI to import
+ - Use **bb generate** to crate the folder structure for an "Accordion" container
+ - Use **bb rest** to import the Accordion template in the Enterprise Catalog
+ - Use **bb sync** to import your Accordion container in the Enterprise Catalog
 
 #### Additional Resources
 
- - [template-containers.xml](../../../../../config-info/import/template-containers.xml#L3-L21)
- - [server-catalog-containers.xml](../../../../../config-info/import/server-catalog-containers.xml#L3-L30)
+ - [template-pf3E1AccordionContainer.xml](template-pf3E1AccordionContainer.xml)
+ - [catalog-pf3e1-accordion-container.xml](catalog-pf3e1-accordion-container.xml)
 
 #### References
 
  - [Container Development Methodology](https://my.backbase.com/resources/documentation/portal/5.5.1.0/devd_comp_cont.html)
  - [Google Closure Templates](https://my.backbase.com/resources/documentation/portal/5.5.1.0/devd_comp_cont_soyt.html)
- - [How to use YAPI](https://my.backbase.com/resources/how-to-guides/how-to-use-yet-another-portal-importer-yapi)
+ - [bb-cli Documentation](https://github.com/Backbase/bb-cli)
+ - [bb rest](https://github.com/Backbase/mosaic-rest-js)

@@ -1,0 +1,16 @@
+{namespace cxp_fe_training_03}
+/**
+ * Page Layout
+ * @param item Item in context
+ */
+{template .pf3E1AccordionContainer}
+    <div class="bp-container bt-pf3e1-accordion-container" data-pid="{$item.name}">
+        <div class="bp-area bt-pf3e1-accordion-container--area">
+            {foreach $child in $item.children}
+                // {if parseInt($child.preferences.area.value) == 0}
+                    {include($child) |noAutoescape}
+                // {/if}
+            {/foreach}
+        </div>
+    </div>
+{/template}
