@@ -7,8 +7,7 @@ Create complex layouts for your applications by learning how to develop containe
 ### Contents
 
  - **pf3e1**: Create your first container ([solution](cxp-fe-training-03/src/main/webapp/static/cxp-fe-training-03/containers/pf3e1-accordion-container))
- - **pf3e2a**: How to enable Drag and Drop for your container ([solution](cxp-fe-training-03/src/main/webapp/static/cxp-fe-training-03/containers/pf3e2a-accordion-container))
- - **pf3e2b**: Create an Accordion UI ([solution](cxp-fe-training-03/src/main/webapp/static/cxp-fe-training-03/containers/pf3e2b-accordion-container))
+ - **pf3e2**: Create an Accordion UI ([solution](cxp-fe-training-03/src/main/webapp/static/cxp-fe-training-03/containers/pf3e2-accordion-container))
  - **pf3e3**: Style your container ([solution](cxp-fe-training-03/src/main/webapp/static/cxp-fe-training-03/containers/pf3e3-accordion-container))
  - **pf3e4**: How to render your container on the client-side ([solution](cxp-fe-training-03/src/main/webapp/static/cxp-fe-training-03/containers/pf3e4-accordion-container))
 
