@@ -13,9 +13,10 @@ In this exercise, you will learn how to create your first container using Google
 
 #### Steps
 
- - Use **bb generate** to crate the folder structure for an "Accordion" container
+ - Use **bb generate** to create the folder structure for an "Accordion" container
  - Use **bb rest** to import the Accordion template in the Enterprise Catalog
- - Use **bb sync** to import your Accordion container in the Enterprise Catalog
+ - Use **bb sync** to import your Accordion container in the Enterprise
+ - Enable your container for your portal, place it on a page, and test that you can drop items in it
 
 #### Additional Resources
 
