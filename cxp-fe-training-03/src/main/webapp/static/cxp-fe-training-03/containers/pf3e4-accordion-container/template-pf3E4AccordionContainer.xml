@@ -1,0 +1,19 @@
+<template>
+    <type>CONTAINER</type>
+    <name>pf3E4AccordionContainer</name>
+    <contextItemName>[BBHOST]</contextItemName>
+    <properties>
+        <property name="Web">
+            <value type="string">containers/pf3e4-accordion-container/templates/pf3E4AccordionContainer</value>
+        </property>
+        <property name="BundleName">
+            <value type="string">cxp-fe-training-03</value>
+        </property>
+        <property name="title">
+            <value type="string">pf3e4 accordion container</value>
+        </property>
+        <property name="DefaultDevice">
+            <value type="string">Web</value>
+        </property>
+    </properties>
+</template>
