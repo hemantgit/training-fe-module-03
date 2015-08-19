@@ -20,8 +20,8 @@ In this exercise, you will learn how to create your first container using Google
 
 #### Additional Resources
 
- - [template-pf3E1AccordionContainer.xml](template-pf3E1AccordionContainer.xml)
- - [catalog-pf3e1-accordion-container.xml](catalog-pf3e1-accordion-container.xml)
+ - [template](./Template)
+ - [container](./Container)
 
 #### References
 
