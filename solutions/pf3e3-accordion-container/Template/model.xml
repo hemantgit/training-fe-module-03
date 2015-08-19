@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <template>
+        <type>CONTAINER</type>
+        <name>pf3E3AccordionContainer</name>
+        <properties>
+            <property name="title">
+                <value type="string">pf3e3 Accordion Template</value>
+            </property>
+            <property name="Web">
+                <value type="string">templates/pf3e3AccordionContainer</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(itemRoot)/icon.png</value>
+            </property>
+            <property name="BundleName">
+                <value type="string">$(itemRoot)</value>
+            </property>
+            <property name="DefaultDevice">
+                <value type="string">Web</value>
+            </property>
+        </properties>
+    </template>
+</catalog>
