@@ -25,7 +25,5 @@ In this exercise, you will learn how to create your first container using Google
 
 #### References
 
- - [Container Development Methodology](https://my.backbase.com/resources/documentation/portal/5.5.1.0/devd_comp_cont.html)
- - [Google Closure Templates](https://my.backbase.com/resources/documentation/portal/5.5.1.0/devd_comp_cont_soyt.html)
- - [bb-cli Documentation](https://github.com/Backbase/bb-cli)
- - [bb rest](https://github.com/Backbase/mosaic-rest-js)
+ - [Container Development Methodology](https://my.backbase.com/resources/documentation/portal/5.6.0/portalservices_containers.html)
+ - [Google Closure Templates](https://my.backbase.com/resources/documentation/portal/5.6.0/containertemplate_closurefile.html)
