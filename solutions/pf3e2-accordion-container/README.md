@@ -2,7 +2,7 @@
 
 ## Portal Frontend - Module 3
 
-### Exercise 1
+### Exercise 2
 
 _note: This exercise is 2 of 4 in a series of exercises that follow on from each other and should not be used independently_
 _note: All exercises use the [standard portal set-up for backbase trainings](https://my.backbase.com/resources/how-to-guides/getting-your-first-launchpad-based-portal-set-up/)_
