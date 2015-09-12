@@ -19,20 +19,20 @@
         Container.apply(this, arguments);
         this.isPossibleDragTarget = true;
     }, {
-        localName: 'pf3E4AccordionContainer',
+        localName: 'pf3E2AccordionContainer',
         // the same as the viewNamespace property in the import XML for the container and in the soy template
-        namespaceURI: 'templates_pf3E4AccordionContainer'
+        namespaceURI: 'templates_pf3E2AccordionContainer'
     }, {
-        template: function(json) {
-            var data = {item: json.model.originalItem};
-            var sTemplate = templates_pf3E4AccordionContainer.pf3E4AccordionContainer(data);
-            return sTemplate;
-        },
+        // template: function(json) {
+        //     var data = {item: json.model.originalItem};
+        //     var sTemplate = templates_pf3E2AccordionContainer.pf3E2AccordionContainer(data);
+        //     return sTemplate;
+        // },
 
         handlers: {
             DOMReady: function(event) {
                 var $container = $(this.htmlNode),
-                    $sections = $container.find(SELECTORS.SECTION_BODY);
+                    $sections = $(this.getHTMLAreas());
 
                 $container.on('click', SELECTORS.SECTION_HEADER, function(event) {
                     $sections.addClass(CLASSES.HIDDEN);

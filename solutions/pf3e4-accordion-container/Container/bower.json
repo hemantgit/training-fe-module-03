@@ -1,0 +1,26 @@
+{
+  "name": "pf3e4-accordion-container",
+  "version": "0.1.0",
+  "description": "A fine container.",
+  "main": "./scripts/pf3e4-accordion-container.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "authors": [
+    "Backbase <practices@backbase.com>"
+  ],
+  "moduleType": [
+    "umd"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules"
+  ],
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

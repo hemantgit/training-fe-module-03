@@ -4,9 +4,9 @@
     xmlns="http://www.w3.org/1999/xhtml">
 
     <bb:resources>
-        <link rel="stylesheet" type='text/css' href="css/pf3e4-accordion-container.css"/>
-        <script type="text/javascript" src="js/pf3e4-accordion-container.js"></script>
-        <script type="text/javascript" src="$(itemRoot)/templates/pf3e4AccordionTemplate/template.js"></script>
+        <link rel="stylesheet" type='text/css' href="styles/pf3e4-accordion-container.css"/>
+        <script type="text/javascript" src="scripts/pf3e5-controller-container.js"></script>
+        <script type="text/javascript" src="$(contextRoot)/templates/pf3E4AccordionContainer/template.js"></script>
     </bb:resources>
 
 </w3c:widget>
